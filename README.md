@@ -1,2 +1,2 @@
 # markThree
- 
+ My name is Adarsh. I am an 18 y/o CS student who is immensely passionate about computers and tech in general.I enjoy learning web development. When i am not typing away on my laptop, i like to read books. 
